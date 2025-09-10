@@ -1,0 +1,23 @@
+1. Which class is first executed when you click the Run button? How
+do you know?
+
+
+
+
+2. On line 9, remove the code `log = `. Predict how/if this will 
+affect the output. Why or why not? After making your prediction, 
+run the program and see if you are right. Add `log = ` back to the code.
+
+
+
+
+3. On line 9, remove the code `Logger.`. Again, predict how/if 
+this will affect the output. Why or why not? After making your 
+prediction, run the program and see if you are right. Add `Logger.` 
+back to the code.
+
+
+
+4. Why is the notation for calling the class method resetLog() different
+than the notation for calling all of the other class methods in this 
+program?

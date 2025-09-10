@@ -1,0 +1,25 @@
+1. How do you know the proper order of the arguments
+on line 6 in the `RectangleRunner` class? In other 
+words, how do you know if you should list the width 
+or the height first?
+The order is defined by the constructor in the Rectangle class
+
+
+
+2. What does the first "Rectangle" on line 6 represent?
+It's the data type of the object being created
+
+
+
+3. What does "rect1" on line 6 represent?
+It's the name of the object, a variable that stores the new Rectangle instance.
+
+
+
+4. What does the second "Rectangle" on line 6 represent?
+It's the constructor call, this creates the actual object with the given values.
+
+
+
+5. What's the purpose of lines 10 and 11 in the Rectangle class?
+They're getter methods

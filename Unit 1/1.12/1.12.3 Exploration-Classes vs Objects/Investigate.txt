@@ -1,0 +1,22 @@
+1. Which class is being used as a blueprint to create
+rectangle objects? How do you know?
+The Rectangle class—used to create objects like rect1 in RectangleRunner.
+
+2. What are the names of the object attributes that 
+are outlined in the blueprint class?
+width, height, and color.
+
+
+
+
+3. What value does the `width` attribute have in the
+`Rectangle` class on line 4? Why? How does this relate
+to the process of creating rectangle objects (lines 
+6-8 in `RectangleRunner`)?
+No value yet—it's set in the constructor when objects are created (e.g. width = 5 for rect1).
+
+
+
+4. In summary, what is the difference between a class
+and the objects it creates?
+A class defines the structure; objects are actual instances with specific values.

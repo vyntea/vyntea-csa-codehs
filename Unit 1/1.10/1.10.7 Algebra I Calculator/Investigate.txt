@@ -1,0 +1,7 @@
+4. Describe at least three advantages to having these 
+class methods in the `Calculator` class (as compared 
+to completing the calculations right in the `main` method).
+
+1. They allow for the method to be called for different objects
+2. They allow for shorter, cleaner code
+3. They allow for more generalized usage

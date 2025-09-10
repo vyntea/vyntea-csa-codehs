@@ -1,0 +1,29 @@
+Question 1: Based on what you know of how string
+objects are stored in memory and variables, how 
+many string objects have you created at this point?
+Explain.
+Only two unique memory addresses have been created
+
+
+
+
+Question 2: Predict what happened to the value of
+`stringThree` when you changed the value of 
+`stringOne` at the end of the code. Why do 
+you think that happens?
+stringThree will become 93 because they reference the same memory address
+
+
+
+
+Question 3: Now that you see the values of each of
+the three variables, were you right in your prediction
+in Question #2? Explain why or why not.
+I was because I'm always right.
+
+
+
+
+Question 4: How does reassigning a string variable
+affect the original object it was pointing to?
+It changes it.
