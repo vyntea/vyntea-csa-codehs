@@ -1,3 +1,3 @@
 # vyntea-csa-codehs
-
-Hi!
+Work in progress
+Feel free to help out
